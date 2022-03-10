@@ -20,6 +20,6 @@ steps:
     location: 'West US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/shawnwillhelm/SWAzuredemoPipeline/main/Createwebapp/azuredeploy.json?token=GHSAT0AAAAAABSIHUIMXKJH5H2ZBGXBTRRWYRKOA4Q'
-    overrideParameters: '-projectName swazpl0310'
+    overrideParameters: '-projectName SWAzurePipelinedemo'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
